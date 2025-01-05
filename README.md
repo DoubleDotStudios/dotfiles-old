@@ -1,5 +1,9 @@
 # Dotfiles
 
+> [!IMPORTANT]
+> These dotfiles are no longer in use. My new dotfiles are available at:
+> https://github.com/DoubleDotStudios/i3-dotfiles
+
 ## To use
 
 1. Install [GNU stow](https://www.gnu.org/software/stow/).
